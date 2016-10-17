@@ -1,0 +1,2 @@
+# autoencoder
+Detector Data Compression
